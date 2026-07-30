@@ -2,9 +2,9 @@
 ML and DL 
 
 
-##1. Customer Churn Prediction using ANN
+## 1. Customer Churn Prediction using ANN
 
-# Project Workflow
+ Project Workflow
 - Data Preprocessing
 - One-Hot Encoding
 - Feature Scaling
@@ -12,6 +12,6 @@ ML and DL
 - Model Training
 - Model Evaluation
 
-# Results
+ Results
 - Training Accuracy: 87%
 - Validation Accuracy: 85%
