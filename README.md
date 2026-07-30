@@ -1,5 +1,4 @@
-# Machine-Learning
-ML and DL 
+# ML and DL 
 
 
 ## 1. Customer Churn Prediction using ANN
